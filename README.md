@@ -9,8 +9,8 @@ Este análisis se centra en dos tablas principales:
 El periodo analizado incluye todas las órdenes desde el inicio del nuevo menú en el año 2023.
 # Análisis final
 A partir de las consultas realizadas, se obtuvieron los siguientes 5 hallazgos clave:
-1. Productos estrella identificados:
-2. Platos con baja rotación: 
-3. Categorías más exitosas: 
-4. Mayor ingreso por producto: 
-5. Alta actividad en fechas específicas:
+1. Productos estrella identificados.
+2. Platos con baja rotación.
+3. Categorías más exitosas.
+4. Mayor ingreso por producto.
+5. Alta actividad en fechas específicas.
