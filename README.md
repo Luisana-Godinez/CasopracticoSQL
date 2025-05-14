@@ -1,5 +1,5 @@
 # Contexto
-Este proyecto explora "Sabores del Mundo" es un restaurante que recientemente renovó su menú. Desde el lanzamiento, se ha estado recopilando información detallada de cada pedido realizado para evaluar el desempeño de los nuevos platillos
+Este proyecto explora "Sabores del Mundo" es un restaurante que recientemente renovó su menú. Desde el lanzamiento, se ha estado recopilando información detallada de cada pedido realizado para evaluar el desempeño de los nuevos platillos.
 # Objetivo
 El objetivo principal de este análisis es identificar cuáles productos del menú han sido los más exitosos y cuáles no han tenido buena aceptación por parte de los clientes. Esta información permitirá a los propietarios tomar decisiones informadas para mejorar su menú, optimizar costos y maximizar ingresos.
 # Alcance
